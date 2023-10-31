@@ -1,0 +1,9 @@
+echo "# New-Code" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Vigneshyadav/New-Code.git
+git push -u origin main
+
+Passwords: 1244363
