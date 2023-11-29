@@ -11,3 +11,12 @@ git credentials of personal and company site name: vign@deloitte.com password: C
 git username : vign@hotmail.com
 git password : J@129kig
 update UserType set Password='vif%3328' where UserTypeID= 646
+
+
+API_BASEURL= "http://1.1.2.3/"
+API_USERNAME= "apiuser"
+API_PASSWORD= "jshfjsjhckkjakk"
+TWILIO_ACCOUNT_SID=ajdjj2l3jlkjlkds8
+TWILIO_API_KEY=kpdpip36k;lk;ekflk30kl;0k4
+TWILIO_API_SECRET=;lf'fk3po9j38ij9393
+TWILIO_CHAT_SERVICE_SID=3;j3pi0i393020-03-o
