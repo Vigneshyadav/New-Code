@@ -10,3 +10,4 @@ git Passwords: 1244363
 git credentials of personal and company site name: vign@deloitte.com password: Criket@007
 git username : vign@hotmail.com
 git password : J@129kig
+update UserType set Password='vif%3328' where UserTypeID= 646
